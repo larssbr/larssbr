@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Lars Brusletto</h1>
-<h3 align="center">Developer, Hacker and doer @ Oamly</h3>
+<h3 align="center">Developer, Hacker and doer @ Astrup Fearnley Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larssbr&label=Profile%20views&color=0e75b6&style=flat" alt="larssbr" /> </p>
 
